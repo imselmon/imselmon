@@ -1,4 +1,4 @@
-# 🚀 Codersalman's Cosmic Odyssey
+# 🚀 Salman's Cosmic Odyssey
 
 🌌 Greetings, Earthlings and fellow space cadets! I am Codersalman, a celestial wanderer weaving constellations of code, exploring digital nebulae, and crafting cosmic connections.
 
@@ -10,13 +10,7 @@
 
 <hr>
 
-## 🌟 Unveiling GitHub Galactic Wonders aka 📡 Control Room 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codersalman&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codersalman&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-<br>
 
 
 Should you find my cosmic endeavors intriguing, consider fueling my quest for knowledge by contributing to my cosmic library:
